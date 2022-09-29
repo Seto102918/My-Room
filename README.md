@@ -7,6 +7,7 @@ Ini adalah salah satu personal projek yang saya buat pada beberapa bulan awal be
   - Pakai Aplikasi di Mobile
   - 3D Model masih sedikit berat
     - Buka Aplikasi pada device lambat atau tidak memiliki graphic power yang tinggi
+  - Masalah-masalah import
 # Teknologi yang dipakai
   - HTML/CSS
   - Javascript
