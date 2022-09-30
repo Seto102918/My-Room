@@ -9,6 +9,10 @@ Ini adalah salah satu personal projek yang saya buat pada beberapa bulan awal be
   - 3D Model masih sedikit berat
     - Buka Aplikasi pada device lambat atau tidak memiliki graphic power yang tinggi
   - Masalah-masalah import
+  
+  # Kesalahan Yang Dilakukan
+  - Menggunakan extension ThreeJs yang sudah tidak diupdate 8 tahun.
+  - Membuat Resolusi 3D terlalu besar
    -->
 # Teknologi yang dipakai
   - HTML/CSS
@@ -26,6 +30,5 @@ Saya tidak memiliki texture yang dipakai pada proyek ini dan juga model-model be
   - Gorden
   - Lemari
   - Kursi
-# Kesalahan Yang Dilakukan
-  - Menggunakan extension ThreeJs yang sudah tidak diupdate 8 tahun.
-  - Membuat Resolusi 3D terlalu besar
+  
+
