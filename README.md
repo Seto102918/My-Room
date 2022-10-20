@@ -31,4 +31,7 @@ Saya tidak memiliki texture yang dipakai pada proyek ini dan juga model-model be
   - Lemari
   - Kursi
   
+# Demo
+https://drive.google.com/file/d/1m7KOfeebBWtZDQoR1bHnMegIrp2SRRnt/view?usp=sharing
+  
 
